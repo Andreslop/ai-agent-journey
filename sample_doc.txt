@@ -1,0 +1,1 @@
+The premise of an AI agent is to autonomously perform tasks on behalf of users by using reasoning, tools, and memory. Modern agent frameworks often use LLMs as the core "brain" of the system.
